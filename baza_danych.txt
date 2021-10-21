@@ -1,0 +1,9 @@
+saldo;40303.0
+mleko;6;2.0
+masło;10;3.0
+stop;3;5.0
+rower;4;200.0
+koce;2;30.0
+samochód;6;500.0
+kola;2;200.0
+stół;2;200.0
