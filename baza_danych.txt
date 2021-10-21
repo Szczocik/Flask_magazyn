@@ -1,4 +1,4 @@
-saldo;38803.0
+saldo;39203.0
 mleko;6;2.0
 masło;10;3.0
 stop;3;5.0
@@ -7,5 +7,5 @@ koce;2;30.0
 samochód;4;1000.0
 stół;2;200.0
 Dzban;1;300.0
-ciastko;40;5.0
+ciastko;30;5.0
 wazon;7;500.0
