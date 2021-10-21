@@ -3,4 +3,6 @@ Dokonano zakupu produktu: rower w ilości 20 sztuk, w cenie jednostkowej 20 zł.
 Zmiana saldo o: 200
 Zmiana saldo o: -1000
 Zmiana saldo o: -1000
-Dokonano sprzedaży produktu: Dzban w ilości 1 sztuk, o cenie jednostkowej 300 zł.
+Zmiana saldo o: 1500
+Zmiana saldo o: 2000
+Zmiana saldo o: 500

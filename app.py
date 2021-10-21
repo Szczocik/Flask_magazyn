@@ -20,8 +20,8 @@ def main():
         params.append(int(request.form.get('count')))
         params.append(int(request.form.get('amount')))
     manager.execute(mode, params)
-    manager.write_file()
     manager.logs_write_file()
+    manager.write_file()
     return render_template("index.html", saldo=manager.saldo, store=manager.store)
 
 
