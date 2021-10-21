@@ -4,6 +4,7 @@ from accountant import manager
 app = Flask(__name__)
 manager.read_file()
 
+
 @app.route("/", methods=["GET", "POST"])
 def main():
     mode = request.form.get('mode')
@@ -20,7 +21,7 @@ def main():
         params.append(int(request.form.get('amount')))
     manager.execute(mode, params)
     manager.write_file()
-    print(dict(request.form))
+    manager.logs_write_file()
     return render_template("index.html", saldo=manager.saldo, store=manager.store)
 
 

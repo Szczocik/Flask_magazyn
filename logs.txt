@@ -1,8 +1,6 @@
-Dokonano sprzedaży produktu: mleko w ilości 2 sztuk, o cenie jednostkowej 2.0.
-Dokonano zakupu produktu: rower w ilości 2 sztuk, w cenie jednostkowej 200.0 zł.
-Zmiana saldo o: 2000.0
-Dokonano sprzedaży produktu: mleko w ilości 2 sztuk, o cenie jednostkowej 2.0.
-Dokonano sprzedaży produktu: samochod w ilości 1 sztuk, o cenie jednostkowej 100.0.
-Dokonano zakupu produktu: samochod w ilości 2 sztuk, w cenie jednostkowej 400.0 zł.
-Dokonano zakupu produktu: samochod w ilości 3 sztuk, w cenie jednostkowej 500.0 zł.
-Dokonano zakupu produktu: kola w ilości 2 sztuk, w cenie jednostkowej 40.0 zł.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano zakupu produktu: rower w ilości 20 sztuk, w cenie jednostkowej 20 zł.
+Zmiana saldo o: 200
+Zmiana saldo o: -1000
+Zmiana saldo o: -1000
+Dokonano sprzedaży produktu: Dzban w ilości 1 sztuk, o cenie jednostkowej 300 zł.

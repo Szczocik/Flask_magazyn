@@ -103,12 +103,5 @@ def sprzedaz(params):
     manager.saldo += product_count * product_price
     if not manager.store.get(product_name)['count']:
         del manager.store[product_name]
-    log = f"Dokonano sprzedaży produktu: {product_name} w ilości {product_count} sztuk, o cenie jednostkowej {product_price}."
+    log = f"Dokonano sprzedaży produktu: {product_name} w ilości {product_count} sztuk, o cenie jednostkowej {product_price} zł."
     manager.logs.append(log)
-
-
-# manager.execute('saldo', [2000])
-# manager.execute('zakup', ['rower', 2, 50])
-# # manager.execute('zakup', {'product_name': 'rower', 'product_count': 4, 'product_price': 60})
-# print(manager.saldo)
-# print(manager.store)
