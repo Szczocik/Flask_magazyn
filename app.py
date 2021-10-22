@@ -25,13 +25,10 @@ def main():
     return render_template("index.html", saldo=manager.saldo, store=manager.store)
 
 
-manager.logs_read_file()
-
-
 @app.route("/history/<index_start>/<index_stop>", methods=["GET", "POST"])
 @app.route("/history")
 def history(index_start=None, index_stop=None):
-
+    manager.logs_read_file()
     if not index_start:
         index_start = 0
     if not index_stop:
