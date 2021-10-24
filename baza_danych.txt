@@ -1,4 +1,4 @@
-saldo;44191.0
+saldo;44541.0
 mleko;6;2.0
 masło;10;3.0
 stop;3;5.0
@@ -8,4 +8,4 @@ samochód;4;1000.0
 stół;2;200.0
 Dzban;1;300.0
 ciastko;21;4.0
-wazon;5;4.0
+wazon;4;50.0
