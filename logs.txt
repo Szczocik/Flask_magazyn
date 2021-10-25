@@ -9,4 +9,41 @@ Zmiana saldo o: 500
 Dokonano sprzedaży produktu: ciastko w ilości 3 sztuk, o cenie jednostkowej 5 zł.
 Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
 Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
-
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano zakupu produktu: rower w ilości 20 sztuk, w cenie jednostkowej 20 zł.
+Zmiana saldo o: 200
+Zmiana saldo o: -1000
+Zmiana saldo o: -1000
+Zmiana saldo o: 1500
+Zmiana saldo o: 2000
+Zmiana saldo o: 500
+Dokonano sprzedaży produktu: ciastko w ilości 3 sztuk, o cenie jednostkowej 5 zł.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano zakupu produktu: rower w ilości 20 sztuk, w cenie jednostkowej 20 zł.
+Zmiana saldo o: 200
+Zmiana saldo o: -1000
+Zmiana saldo o: -1000
+Zmiana saldo o: 1500
+Zmiana saldo o: 2000
+Zmiana saldo o: 500
+Dokonano sprzedaży produktu: ciastko w ilości 3 sztuk, o cenie jednostkowej 5 zł.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano zakupu produktu: rower w ilości 20 sztuk, w cenie jednostkowej 20 zł.
+Zmiana saldo o: 200
+Zmiana saldo o: -1000
+Zmiana saldo o: -1000
+Zmiana saldo o: 1500
+Zmiana saldo o: 2000
+Zmiana saldo o: 500
+Dokonano sprzedaży produktu: ciastko w ilości 3 sztuk, o cenie jednostkowej 5 zł.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Dokonano sprzedaży produktu: ciastko w ilości 5 sztuk, o cenie jednostkowej 20.
+Zmiana saldo o: -5000
+Dokonano zakupu produktu: kiszka w ilości 3 sztuk, w cenie jednostkowej 50 zł.
+Zmiana saldo o: 5000
+Dokonano zakupu produktu: kiszka w ilości 5 sztuk, w cenie jednostkowej 20 zł.
+Dokonano sprzedaży produktu: kiszka w ilości 5 sztuk, o cenie jednostkowej 400 zł.

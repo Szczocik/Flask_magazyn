@@ -42,13 +42,14 @@ class Manager:
             print("Koniec programu!")
 
     def logs_read_file(self, filepath='logs.txt'):
+        self.logs = None
         with open(filepath, 'r', encoding='utf8') as file:
             lines = file.readlines()
             lines = [line.rstrip() for line in lines]
             self.logs = lines
 
     def logs_write_file(self):
-        with open('logs.txt', 'a', encoding='utf8') as file:
+        with open('logs.txt', 'w', encoding='utf8') as file:
             for log in self.logs:
                 file.write(log + '\n')
 
