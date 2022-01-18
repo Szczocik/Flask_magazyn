@@ -1,13 +1,13 @@
-# Flask_magazyn - system accountant dostępny przez stronę www
+## Flask_magazyn - system accountant dostępny przez stronę www
 
 Stwórz aplikację webową do zarządzania magazynem i księgowością.
-Strona główna powinna wyświetlać obecny stan magazynowy, obecne saldo oraz zawierać trzy formularze:
-1. Formularz do zakupu:
+Strona główna powinna wyświetlać obecny stan magazynowy, obecne saldo oraz zawierać **trzy formularze**:
+1. **Formularz do zakupu**:
 Z polami: nazwa produktu, cena jednostkowa, liczba sztuk
-2. Formularz do sprzedaży:
+2. **Formularz do sprzedaży**:
 Z polami: nazwa produktu, cena jednostkowa, liczba sztuk
 Po wypełnieniu i przesłaniu danych z tych formularzy odśwież stronę bądź wydrukuj komunikat błędu, jeśli dane nie były prawidłowe i ponownie wyświetl stronę ze stanami magazynowymi.
-3. Formularz zmiany salda:
+3. **Formularz zmiany salda**:
 Z polami: komentarz, wartość (tylko liczbowa)
 
 
